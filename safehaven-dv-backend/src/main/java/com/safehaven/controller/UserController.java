@@ -1,4 +1,4 @@
-package com.safehaven.controller;
+ package com.safehaven.controller;
 
 import com.safehaven.model.User;
 import com.safehaven.service.UserService;
